@@ -1,12 +1,16 @@
-## Hello 👋
+## 👋 Hello, I'm Kuba. Glad to see everyone here
+
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+### About Me :
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SSH3+Faculty:+Information+analytics)](https://git.io/typing-svg)
 
-BMSTU Student, SSH3 Faculty (Information analytics)
-
-[![Kuba's Statistics](https://github-readme-stats.vercel.app/api?username=Kuba46)](https://github.com/Kuba46/github-readme-stats)
+[![Kuba's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kuba46&theme=dark&background=000000)](https://git.io/streak-stats)
 
 ![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuba46&theme=solarized_dark)
 
