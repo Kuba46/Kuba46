@@ -42,7 +42,7 @@ Also I do 3D-modeling as a hobby!
 
 ### Statistics:
 
-[![Kuba's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kuba46&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Kuba's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kuba46&theme=tokyonight)](https://git.io/streak-stats)
 
 [![Kuba's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kuba46&theme=tokyonight&show_icons=true)](https://github.com/Kuba46/github-readme-stats)
 
