@@ -1,5 +1,8 @@
 ## Hello 👋
-I am a BMSTU Student, SSH3 Faculty (Information analytics)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student+,+SSH3+Faculty+(+Information+analytics+))](https://git.io/typing-svg)
+
+BMSTU Student, SSH3 Faculty (Information analytics)
 
 [![Kuba's Statistics](https://github-readme-stats.vercel.app/api?username=Kuba46)](https://github.com/Kuba46/github-readme-stats)
 
