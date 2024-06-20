@@ -30,7 +30,7 @@
 #### Tools:
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshopphotoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premier Pro" alt="Adobe Premier Pro" width="40" height="40"/>&nbsp;
 </div>
 
