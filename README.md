@@ -1,7 +1,11 @@
 ## Hello 👋
 BMSTU Student, SSH3 Faculty (Information analytics)
 
-[![Kuba's GitHub statistics](https://github-readme-stats.vercel.app/api?username=kuba46)](https://github.com/Kuba46/github-readme-stats)
+[![Statistics](https://github-readme-stats.vercel.app/api?username=kuba46)](https://github.com/Kuba46/github-readme-stats)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daniilshat&theme=solarized_dark)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=daniilshat&theme=solarized_dark)
 
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
