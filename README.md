@@ -1,6 +1,8 @@
 ## Hello 👋
 BMSTU Student, SSH3 Faculty (Information analytics)
 
+[![Kuba's GitHub statistics](https://github-readme-stats.vercel.app/api?username=kuba46)](https://github.com/Kuba46/github-readme-stats)
+
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
