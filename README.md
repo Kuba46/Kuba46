@@ -6,15 +6,7 @@
 
 ### About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student)](https://git.io/typing-svg)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SSH3+Faculty:+Information+analytics)](https://git.io/typing-svg)
-
-[![Kuba's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kuba46&theme=dark&background=000000)](https://git.io/streak-stats)
-
-![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuba46&theme=solarized_dark)
-
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact)](https://github.com/Kuba46/github-readme-stats)
+#### Tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -30,6 +22,18 @@
   
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
+
+### Statistics:
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SSH3+Faculty:+Information+analytics)](https://git.io/typing-svg)
+
+[![Kuba's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kuba46&theme=dark&background=000000)](https://git.io/streak-stats)
+
+![Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Kuba46&theme=solarized_dark)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact)](https://github.com/Kuba46/github-readme-stats)
 
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
