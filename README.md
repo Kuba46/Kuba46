@@ -1,6 +1,7 @@
 ## Hello 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student)](https://git.io/typing-svg)
+
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=SSH3+Faculty:+Information+analytics)](https://git.io/typing-svg)
 
 BMSTU Student, SSH3 Faculty (Information analytics)
