@@ -44,6 +44,11 @@ Also I do 3D-modeling as a hobby!
   <img src="https://github.com/devicons/devicon/blob/master/icons/maya/maya-original.svg" title="Maya" alt="Maya" width="40" height="40"/>&nbsp;
 </div>
 
+And trying myself at GameDev :3
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/unity/unity-original.svg" title="Unity" alt="Unity" width="50" height="50"/>&nbsp;
+</div>
+
 ### Statistics:
 
 [![Kuba's GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Kuba46&theme=tokyonight)](https://git.io/streak-stats)
