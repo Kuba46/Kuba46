@@ -10,8 +10,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Faculty:+Data+analyst)](https://git.io/typing-svg)
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=DevOps+Junior)](https://git.io/typing-svg)
-
 #### Languages I use:
 
 <div>
