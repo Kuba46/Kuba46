@@ -66,7 +66,7 @@ And trying myself at GameDev :3
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&blue-green)](https://github.com/Kuba46/github-readme-stats)
 
 ### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuba46&theme=dark)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuba46)](https://git.io/streak-stats)
 
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
