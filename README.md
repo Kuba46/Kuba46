@@ -63,10 +63,12 @@ And trying myself at GameDev :3
 
 ![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=blue-green)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&blue-green)](https://github.com/Kuba46/github-readme-stats)
+<!---Для компактной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&theme=blue-green)](https://github.com/Kuba46/github-readme-stats)
 
-### 🔥 GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuba46)](https://git.io/streak-stats)
+<!---Для подробной версии-->
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&theme=blue-green)](https://github.com/Kuba46/github-readme-stats)
+
 
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
