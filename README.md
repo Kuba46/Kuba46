@@ -61,13 +61,13 @@ And trying myself at GameDev :3
 
 ### Statistics:
 
-![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=blue-green)
+![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=blue)
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&theme=blue-green)](https://github.com/Kuba46/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&theme=blue)](https://github.com/Kuba46/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&theme=blue-green)](https://github.com/Kuba46/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&theme=blue)](https://github.com/Kuba46/github-readme-stats)
 
 
 <!--
