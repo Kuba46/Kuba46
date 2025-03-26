@@ -55,13 +55,13 @@ Also I do 3D-modeling as a hobby!
 
 ### Statistics:
 
-![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=blue)
+![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=tokyonight)
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&theme=blue)](https://github.com/Kuba46/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&theme=tokyonight)](https://github.com/Kuba46/github-readme-stats)
 
 <!---Для подробной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&theme=blue)](https://github.com/Kuba46/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&theme=tokyonight)](https://github.com/Kuba46/github-readme-stats)
 
 
 <!--
