@@ -41,7 +41,7 @@ Also I do 3D-modeling as a hobby!
 </div>
 
 <!---Для компактной версии-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact&theme=algolia)](https://github.com/Kuba46/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact)](https://github.com/Kuba46/github-readme-stats)
 
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
