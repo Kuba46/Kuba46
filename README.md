@@ -41,9 +41,15 @@ Also I do 3D-modeling as a hobby!
 </div>
 
 <!---Для компактной версии-->
-Top Languages:
+GitHub Streak:
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kuba46)](https://git.io/streak-stats)
+
+Stats:
+
+![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact)](https://github.com/Kuba46/github-readme-stats)
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
