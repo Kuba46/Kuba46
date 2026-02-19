@@ -45,11 +45,11 @@ GitHub Streak:
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Kuba46)](https://git.io/streak-stats)
 
-Stats:
+### 🔥 GitHub Streak Stats
 
-![Kuba's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kuba46&show_icons=true&theme=radical)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuba46&theme=dark)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kuba46&layout=compact)](https://github.com/Kuba46/github-readme-stats)
+[![codewars](https://www.codewars.com/users/Kuba46/badges/large)](https://www.codewars.com/users/Kuba46)
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
