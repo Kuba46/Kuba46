@@ -20,7 +20,7 @@
 
 #### Tools:
 
-Coding:
+####Coding:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg" title="VSCode" alt="VSCode" width="40" height="40"/>&nbsp;
@@ -28,28 +28,23 @@ Coding:
   <img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="PyCharm" alt="PyCharm" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="IntelliJ" alt="IntelliJ" width="40" height="40"/>&nbsp;
   
-Design:
+####Design:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-original.svg" title="Adobe Photoshop" alt="Adobe Photoshop" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/premierepro/premierepro-original.svg" title="Adobe Premier Pro" alt="Adobe Premier Pro" width="40" height="40"/>&nbsp;
 </div>
 
-Also I do 3D-modeling as a hobby!
+####Also I do 3D-modeling as a hobby!
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/blender/blender-original.svg" title="Blender" alt="Blender" width="40" height="40"/>&nbsp;
 </div>
 
 <!---Для компактной версии-->
-GitHub Streak:
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kuba46)](https://git.io/streak-stats)
 
 ### 🔥 GitHub Streak Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Kuba46&theme=dark)](https://git.io/streak-stats)
-
-[![codewars](https://www.codewars.com/users/Kuba46/badges/large)](https://www.codewars.com/users/Kuba46)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Kuba46)](https://git.io/streak-stats)
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
