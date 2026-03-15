@@ -43,13 +43,29 @@
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-74aa9c?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
 
-<!---Для компактной версии-->
+- **DevOps**
+
+![Linux](https://img.shields.io/badge/Linux-8WCD23?style=for-the-badge&logo=linux&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23150458.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-%23121011.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## Stats 📊
 
 ![My GitHub stats](https://github-readme-stats-wilfordafs-projects.vercel.app/api?username=Kuba46&show_icons=true&card_width=495&theme=dracula)
 ![My top languages](https://github-readme-stats-wilfordafs-projects.vercel.app/api/top-langs/?username=Kuba46&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
 [![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=Kuba46&theme=dracula)](https://git.io/streak-stats)
+
+## Contact me 📱
+[<img align="left" alt="VK" width="100px" src="https://img.icons8.com/bubbles/200/null/vk-com.png"/>][vk]
+[<img align="left" alt="TG" width="100px" src="https://img.icons8.com/bubbles/200/null/telegram-app.png"/>][tg]
+[<img align="left" alt="DS" width="100px" src="https://img.icons8.com/bubbles/200/null/discord.png"/>][ds]
+
+[vk]: https://vk.com/ku64blade
+[tg]: https://t.me/Kubinsky46
+[ds]: https://discordapp.com/users/kubarik
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
