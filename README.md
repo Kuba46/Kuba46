@@ -42,9 +42,11 @@
 
 <!---Для компактной версии-->
 
-### 🔥 GitHub Streak Stats
+### Stats 📊
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Kuba46)](https://git.io/streak-stats)
+![My GitHub stats](https://github-readme-stats-wilfordafs-projects.vercel.app/api?username=Kuba46&show_icons=true&card_width=495&theme=dracula)
+![My top languages](https://github-readme-stats-wilfordafs-projects.vercel.app/api/top-langs/?username=Kuba46&layout=compact&count_private=true&langs_count=10&card_width=495&theme=dracula)
+[![GitHub Streak](https://github-readme-streak-stats-two-delta.vercel.app?user=Kuba46&theme=dracula)](https://git.io/streak-stats)
 <!--
 **Kuba46/Kuba46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
