@@ -6,7 +6,7 @@
 
 ### About Me :
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student+SSH3)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=BMSTU+Student)](https://git.io/typing-svg)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=Faculty:+Data+Science)](https://git.io/typing-svg)
 
@@ -41,7 +41,7 @@
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%2374aa9c.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![Tensorflow](https://img.shields.io/badge/TensorFlow-74aa9c?style=for-the-badge&logo=tensorflow&logoColor=white)
-![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-74aa9c?style=for-the-badge&logo=keras&logoColor=white)
 
 - **DevOps**
 
